@@ -1,11 +1,11 @@
-### கீறல் ஒருங்கிணைப்பு
+### Scratch coordinates
 
-+ ஸ்க்ராட்சில், `x: 0, y: 0` என்ற கோணத்தில் நிலைக்கு மைய நிலை உள்ளது.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-`x: -200, y: -100` போன்ற ஒரு நிலை நிலைக்கு இடது புறம் கீழே உள்ளது, மற்றும் `x: 200, y: 100` போன்ற ஒரு நிலை மேல் வலது அருகே உள்ளது.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![நிலை ஒருங்கிணைப்பு](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ உங்கள் திட்டத்தில் **Xy-grid** பின்னணியைச் சேர்ப்பதன் மூலம் இதை நீங்களே காணலாம்.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![நிலை ஒருங்கிணைப்பு](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
