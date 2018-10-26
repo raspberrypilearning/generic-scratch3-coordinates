@@ -1,11 +1,11 @@
-### Scratch coordinates
+### Координатите на надраскване
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ При нулиране координатите `х: 0, y: 0` означават централната позиция на сцената.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+Позиция като `х: -200, y: -100` е в долния ляв ъгъл на сцената и позиция като `х: 200, y: 100` е в горния десен ъгъл.
 
-![Stage coordinates](images/coordinates-stage.png)
+![Координатите на етапа](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Можете да видите това за себе си, като добавите **Кси-решетка** фона на вашия проект.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![Координатите на етапа](images/coordinates-backdrop.png)
