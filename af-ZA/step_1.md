@@ -1,11 +1,11 @@
-### Krapkoördinate
+### Scratch coordinates
 
-+ In Scratch merk die koördinate `x: 0, y: 0` die sentrale posisie op die stadium.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-'N Posisie soos `x: -200, y: -100` is links onder in die stadium, en 'n posisie soos `x: 200, y: 100` is naby die boonste regterkant.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Stadium koördinate](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ U kan dit self sien deur die **Xy-rooster** agtergrond by u projek te voeg.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Stadium koördinate](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
