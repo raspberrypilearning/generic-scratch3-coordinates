@@ -1,11 +1,11 @@
-### เกาพิกัด
+### Scratch coordinates
 
-+ ใน Scratch พิกัด `x: 0, y: 0` ทำเครื่องหมายตำแหน่งกลางบน Stage
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-ตำแหน่งเช่น `x: -200, y: -100` อยู่ทางด้านล่างซ้ายบนเวทีและตำแหน่งเช่น `x: 200, y: 100` อยู่ใกล้ด้านบนขวา
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![ระยะพิกัด](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ คุณสามารถดูสิ่งนี้ได้ด้วยตัวเองโดยการเพิ่มฉากฉากหลัง **Xy-grid** ให้กับโครงการของคุณ
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![ระยะพิกัด](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
