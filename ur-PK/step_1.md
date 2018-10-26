@@ -1,11 +1,11 @@
-### Scratch coordinates
+### سکریچ سمت
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ سکریچ میں، سمت `: 0، y: 0` اسٹیج پر مرکزی مقام کو نشان زد کرتے ہیں.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+`x: -200 کی حیثیت رکھتا ہے، y: -100` اسٹیج پر بائیں جانب بائیں طرف ہے، اور `x 200، y: 100` سب سے اوپر دائیں کے قریب ہے.
 
-![Stage coordinates](images/coordinates-stage.png)
+![مرحلے کے معاہدے](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ آپ اپنے منصوبے پر **XY-Grid** پس منظر کو شامل کر کے اپنے آپ کو اپنے لئے دیکھ سکتے ہیں.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![مرحلے کے معاہدے](images/coordinates-backdrop.png)
