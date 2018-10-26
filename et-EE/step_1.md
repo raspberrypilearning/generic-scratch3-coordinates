@@ -1,11 +1,11 @@
-### Scratch-koordinaadid
+### Scratch coordinates
 
-+ Scratchis koordinaadid `x: 0, y: 0` märgistavad keskpunkti laval.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-Positsioon nagu `x: -200, y: -100` on etapi alt vasakule ja positsioon nagu `x: 200, y: 100` on paremas ülanurgas.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Stage koordinaadid](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ Saate seda ise näha, lisades oma projektile **Xy-grid** tausta.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Stage koordinaadid](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
