@@ -1,11 +1,11 @@
-### Tọa độ đầu
+### Scratch coordinates
 
-+ Trong Scratch, tọa độ `x: 0, y: 0` đánh dấu vị trí trung tâm trên Stage.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-Một vị trí như `x: -200, y: -100` là về phía dưới cùng bên trái trên Stage, và một vị trí như `x: 200, y: 100` là gần phía trên bên phải.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Tọa độ sân khấu](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ Bạn có thể thấy điều này cho chính mình bằng cách thêm phông nền **Xy-grid** vào dự án của bạn.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Tọa độ sân khấu](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
