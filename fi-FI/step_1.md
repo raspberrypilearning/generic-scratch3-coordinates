@@ -1,11 +1,11 @@
-### Raaputuskoordinaatit
+### Scratch coordinates
 
-+ Scratchissa koordinaatit `x: 0, y: 0` merkitsevät Stadionin keskiasentoa.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-Asema kuten `x: -200, y: -100` on vaiheen vasemmalla alareunassa ja asema kuten `x: 200, y: 100` on lähellä oikeaa ylhäältä.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Vaihekoordinaatit](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ Voit nähdä tämän itsellesi lisäämällä projektiin **Xy-grid** -tekstin.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Vaihekoordinaatit](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
