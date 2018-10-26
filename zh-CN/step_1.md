@@ -1,11 +1,11 @@
-### Scratch coordinates
+### Scratch 坐标
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ 在Scratch中，坐标`x:0,y:0`标识除了舞台的中央位置。
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+像`x:-200,y:-100`这样的坐标指向舞台的左下方，像`x:200,:y,100`这样的坐标在右上方附近。
 
-![Stage coordinates](images/coordinates-stage.png)
+![舞台坐标](images/coordinates-stage.png)
 
 + You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![舞台坐标](images/coordinates-backdrop.png)
