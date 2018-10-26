@@ -1,8 +1,8 @@
-### স্ক্র্যাচ স্থানাঙ্ক
+### Scratch coordinates
 
-+ স্ক্র্যাচে স্থানাঙ্কের `x:0, y:0` -এই অবস্থা স্টেজের কেন্দ্র চিহ্নিত করে।
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-স্থানাঙ্কের `x:-200, y:-100` -এই ধরণের মান স্টেজের নিচের বামদিক নির্দেশ করে এবং `x:200, y:100` -এই ধরণের মান উপরের ডানদিক নির্দেশ করে।
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
 ![Stage coordinates](images/coordinates-stage.png)
 
