@@ -1,11 +1,11 @@
-### Kordinati mill-Grif
+### Scratch coordinates
 
-+ F 'Scratch, il-koordinati `x: 0, y: 0` jimmarkaw il-pożizzjoni ċentrali fuq l-Istadju.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-Pożizzjoni bħal `x: -200, y: -100` hija lejn in-naħa t'isfel tax-xellug fuq l-Istadju, u pożizzjoni bħal `x: 200, y: 100` hija viċin id-dritt tal-lemin.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Koordinati tal-istadju](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ Tista 'tara dan għalik innifsek billi żżid l-isfond **Xy-grid** mal-proġett tiegħek.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Koordinati tal-istadju](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
