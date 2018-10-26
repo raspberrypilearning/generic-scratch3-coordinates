@@ -1,11 +1,11 @@
-### Scratch coordinates
+### Coordenades de scratch
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ A Scratch, les coordenades `x: 0, y: 0` marquen la posició central de l'Estadi.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+Una posició com `x: -200, i: -100` és cap a la part inferior esquerra de l'Estadi, i una posició com `x: 200, i: 100` és a prop de la part superior dreta.
 
-![Stage coordinates](images/coordinates-stage.png)
+![Coordenades escèniques](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Podeu veure això per vosaltres afegint el fons de pantalla **Xy-grid** al vostre projecte.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![Coordenades escèniques](images/coordinates-backdrop.png)
