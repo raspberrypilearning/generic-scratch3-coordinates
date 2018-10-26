@@ -1,11 +1,11 @@
-### Scratch coordinates
+### إحداثيات Scratch
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ في Scratch، يمثل الإحداثيان `x:0, y:0` الموضع المركزي على المنصة.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+ويكون الموضع `x:-200, y:-100` ، على سبيل المثال، تجاه أسفل يسار المنصة، بينما يكون الموضع `x:200, y:100` أعلى اليمين تقريبًا.
 
-![Stage coordinates](images/coordinates-stage.png)
+![إحداثيات المنصة](images/coordinates-stage.png)
 
 + You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![إحداثيات المنصة](images/coordinates-backdrop.png)
