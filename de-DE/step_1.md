@@ -1,8 +1,8 @@
-### Scratch coordinates
+### Scratch-Koordinaten
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ In Scratch markieren die Koordinaten `x: 0, y: 0` die Mitte der Bühne.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+Eine Position wie `x: -200, y: -100` ist links unten auf der Bühne und eine Position wie `x: 200, y: 100` ist oben rechts.
 
 ![Stage coordinates](images/coordinates-stage.png)
 
