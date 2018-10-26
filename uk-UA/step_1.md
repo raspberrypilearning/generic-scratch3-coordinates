@@ -1,11 +1,11 @@
-### Коригування нуля
+### Scratch coordinates
 
-+ У нулі координатами `x: 0, y: 0` позначте центральне положення на сцені.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-Позиція `x: -200, y: -100` знаходиться внизу ліворуч на сцені, а розташування, як `x: 200, y: 100` знаходиться у верхньому правому куті.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Сценічні координати](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ Ви можете це побачити самостійно, додавши до вашого проекту **Xy-grid**.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Сценічні координати](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
