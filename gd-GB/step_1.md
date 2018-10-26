@@ -1,11 +1,11 @@
-### Tha sgrìob a 'co-òrdanachadh
+### Scratch coordinates
 
-+ Ann Scratch, na co-chomharran `x: 0, y: 0` chomharra meadhan a shuidheachadh air a 'Ìre.
++ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
 
-Tha suidheachadh mar `x: -200, y: -100` chun a 'bhonn gu clì air an Ìre, agus tha suidheachadh mar `x: 200, y: 100` faisg air a' mhullach dheas.
+A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
 
-![Co-chomharran ìre](images/coordinates-stage.png)
+![Stage coordinates](images/coordinates-stage.png)
 
-+ Chì thu seo dhut fhèin le bhith a 'cur **cùl-raon Xy-grid** ris a' phròiseact agad.
++ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Co-chomharran ìre](images/coordinates-backdrop.png)
+![Stage coordinates](images/coordinates-backdrop.png)
