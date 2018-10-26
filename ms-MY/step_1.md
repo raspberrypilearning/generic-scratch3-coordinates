@@ -1,11 +1,11 @@
-### Scratch coordinates
+### Koordinat Scratch
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Dalam Scratch, koordinat `x: 0, y: 0` tandakan kedudukan tengah pada Peringkat.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+Kedudukan seperti `x: -200, y: -100` adalah ke arah kiri bawah di Peringkat, dan kedudukan seperti `x: 200, y: 100` berada di sebelah kanan atas.
 
-![Stage coordinates](images/coordinates-stage.png)
+![Koordinat peringkat](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Anda boleh melihat ini untuk diri sendiri dengan menambah latar belakang **Xy-grid** untuk projek anda.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![Koordinat peringkat](images/coordinates-backdrop.png)
