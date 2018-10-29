@@ -1,11 +1,11 @@
-### Scratch coordinates
+### 스크래치 좌표
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ 스크래치에서 `x : 0, y : 0` 좌표는 스테이지에서 중앙 위치를 표시합니다.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+`x : -200, y : -100` 와 같은 위치는 스테이지의 왼쪽 아래를 표시하며, `x : 200, y : 100` 와 같은 위치는 오른쪽 위를 표시합니다.
 
-![Stage coordinates](images/coordinates-stage.png)
+![스테이지 좌표](images/coordinates-stage.png)
 
 + You can see this for yourself by adding the **Xy-grid** backdrop to your project.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![스테이지 좌표](images/coordinates-backdrop.png)
