@@ -4,8 +4,8 @@
 
 Een positie als `x: -200, y: -100` bevindt zich linksonder in het speelveld en een positie als `x: 200, y: 100` bevindt zich in de rechterbovenhoek.
 
-![Stage coordinates](images/coordinates-stage.png)
+![Stage coördinaten](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Je kunt dit zelf zien door de achtergrond **Xy-grid** uit de bibliotheek toe te voegen aan je project.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![Stage coördinaten](images/coordinates-backdrop.png)
