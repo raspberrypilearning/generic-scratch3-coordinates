@@ -6,6 +6,6 @@
 
 ![Συντεταγμένες Σκηνικού](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Μπορείς να δεις τις συντεταγμένες προσθέτοντας το υπόβαθρο **xy-grid** στο έργο σου.
 
 ![Συντεταγμένες Σκηνικού](images/coordinates-backdrop.png)
