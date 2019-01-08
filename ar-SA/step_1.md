@@ -6,6 +6,6 @@
 
 ![إحداثيات المنصة](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ يمكنك رؤية ذلك بنفسك بإضافة خلفية شبكة الإحداثيين **Xy-grid** إلى مشروعك.
 
 ![إحداثيات المنصة](images/coordinates-backdrop.png)
