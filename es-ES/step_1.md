@@ -6,6 +6,6 @@ Una posición como `x:-200, y:-100` está cerca de la parte inferior izquierda d
 
 ![Coordenadas del escenario](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Puedes ver esto tú mismo añadiendo el fondo **Xy-grid** a tu proyecto.
 
 ![Coordenadas del escenario](images/coordinates-backdrop.png)
