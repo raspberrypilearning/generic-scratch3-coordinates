@@ -6,6 +6,6 @@
 
 ![舞台坐标](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ 你可以通过添加**xy-grid**背景到你的项目中来查看坐标
 
 ![舞台坐标](images/coordinates-backdrop.png)
