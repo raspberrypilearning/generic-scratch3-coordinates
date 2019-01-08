@@ -6,6 +6,6 @@
 
 ![مختصات صحنه](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ شما می‌توانید این را با اضافه کردن پشت صحنه‌ی **xy-grid** به پروژه‌ی خود مشاهده کنید.
 
 ![مختصات صحنه](images/coordinates-backdrop.png)
