@@ -4,8 +4,8 @@
 
 Eine Position wie `x: -200, y: -100` ist links unten auf der Bühne und eine Position wie `x: 200, y: 100` ist oben rechts.
 
-![Stage coordinates](images/coordinates-stage.png)
+![Koordinaten der Bühne](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Du kannst das selbst sehen, indem du das Bühnenbild **Xy-grid** zu deinem Projekt hinzufügst.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![Koordinaten der Bühne](images/coordinates-backdrop.png)
