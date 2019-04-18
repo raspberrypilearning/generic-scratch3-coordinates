@@ -6,6 +6,6 @@
 
 ![Sahne koordinatları](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Projenize, **Xy-grid** dekorunu ekleyerek bunu kendiniz de görebilirsiniz.
 
 ![Sahne koordinatları](images/coordinates-backdrop.png)
