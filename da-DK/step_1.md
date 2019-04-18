@@ -6,6 +6,6 @@ Positionen `x: -200, y: -100` er nederst til venstre på scenen og positionen `x
 
 ![Scene-koordinater](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Du kan selv se dette ved at tilføje **xy-nettet** baggrunden til dit projekt.
 
 ![Scene-koordinater](images/coordinates-backdrop.png)
