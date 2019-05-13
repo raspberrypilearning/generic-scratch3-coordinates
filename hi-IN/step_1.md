@@ -1,11 +1,11 @@
-### Scratch coordinates
+### Scratch निर्देशांक
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Scratch में, निर्देशांक `x:0, y:0` स्टेज की केन्द्रीय स्थिति चिह्नित करते हैं।
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+एक स्थिति जैसे `x:-200, y:-100` स्टेज के नीचे बाईं ओर होती है, और एक स्थिति जैसे `x:200, y:100` ऊपर दाईं ओर होती है।
 
 ![Stage coordinates](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ आप अपने प्रोजेक्ट में **Xy-grid** पृष्ठभूमि को जोड़कर यह खुद देख सकते हैं।
 
 ![Stage coordinates](images/coordinates-backdrop.png)
