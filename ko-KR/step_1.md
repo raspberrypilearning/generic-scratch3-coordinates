@@ -6,6 +6,6 @@
 
 ![스테이지 좌표](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ 프로젝트에 **xy-grid** 배경을 추가하여 직접 확인 할 수 있습니다.
 
 ![스테이지 좌표](images/coordinates-backdrop.png)
