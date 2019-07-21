@@ -6,6 +6,6 @@ O poziție ca `x:-200, y:-100` este spre partea din stânga-jos a scenei, iar o 
 
 ![Coordonatele scenei](images/coordinates-stage.png)
 
-+ Poți vedea asta adăugând fundalul **Xy-grid** proiectului tău.
++ Poți vedea asta adăugând decorul **Xy-grid** proiectului tău.
 
 ![Coordonatele scenei](images/coordinates-backdrop.png)
