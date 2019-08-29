@@ -4,8 +4,8 @@
 
 Pozicija poput `x:-200, y:-100` nalazi se u donjem lijevom dijelu Pozornice, a pozicija poput `x:200, y:100` u gornjem desnom dijelu.
 
-![Koordinate Pozornice](images/coordinates-stage.png)
+![Koordinate pozornice](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ To možeš vidjeti dodavanjem pozadine pod nazivom **Xy-grid**.
 
-![Koordinate Pozornice](images/coordinates-backdrop.png)
+![Koordinate pozornice](images/coordinates-backdrop.png)
