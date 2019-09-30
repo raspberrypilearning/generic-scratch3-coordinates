@@ -6,6 +6,6 @@ Posisi seperti `x: -200, y: -100` mengarah ke bagian kiri bawah pada Stage, dan 
 
 ![Koordinat Stage](images/coordinates-stage.png)
 
-+ Kamu bisa melihatnya sendiri dengan menambahkan **Xy-grid** backdrop ke proyek kamu.
++ Kamu bisa melihatnya sendiri dengan menambahkan **Xy-grid** backdrop ke projek kamu.
 
 ![Koordinat Stage](images/coordinates-backdrop.png)
