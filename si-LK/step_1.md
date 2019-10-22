@@ -1,11 +1,11 @@
-### Scratch coordinates
+### Scratch ඛණ්ඩාංක
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Scratch හි, `x:0, Y:0` ඛණ්ඩාංක වේදිකාවේ මැද ස්ථානය ලකුණු කරයි.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+`x:-200, y -100` වැනි ඛණ්ඩාංකයක්, වේදිකාවේ පහළ වම් පසට වන්නට පිහිටා අති අතර `x:200, y:100` වැනි ඛණ්ඩාංකයක් ඉහළ දකුණට ආසන්නය.
 
-![Stage coordinates](images/coordinates-stage.png)
+![අදියර ඛණ්ඩාංක](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ ඔබේ ව්‍යාපෘතියට **Xy-grid** පසුබිම(backdrop) එකතු කිරීමෙන් ඔබට මෙය දැක ගත හැකිය.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![අදියර ඛණ්ඩාංක](images/coordinates-backdrop.png)
