@@ -6,6 +6,6 @@ A posição com as coordenadas `x: -200, y: -100` esta localizada no canto infer
 
 ![Coordenadas no palco](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Você pode ver por si próprio adicionando o cenário **Xy-grid** no seu projeto.
 
 ![Coordenadas no palco](images/coordinates-backdrop.png)
