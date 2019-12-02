@@ -6,6 +6,6 @@
 
 ![ステージの座標](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ **Xy-grid**の背景をあなたのプロジェクトに追加することで、確認することができます。
 
 ![ステージの座標](images/coordinates-backdrop.png)
