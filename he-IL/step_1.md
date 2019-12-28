@@ -1,11 +1,11 @@
-### Scratch coordinates
+### קואורדינטות בסקראץ'
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ בסקראץ', הקואורדינטות `x: 0, y: 0` מסמנות את מרכז משטח העבודה.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+מיקום כמו `x: -200, y: -100` נמצא בצד שמאל למטה של משטח העבודה, ומיקום כמו `x: 200, y: 100` נמצא בצד שמאל למעלה.
 
-![Stage coordinates](images/coordinates-stage.png)
+![קואורדינטות משטח העבודה](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ תוכלו לראות זאת בעצמכם על ידי הוספת הרקע **רשת Xy** לפרויקט שלכם.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![קואורדינטות משטח העבודה](images/coordinates-backdrop.png)
