@@ -1,11 +1,12 @@
-### Scratch coordinates
+### Mga coordinates ng Scratch
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Sa Scratch, minamarka ng mga coordinates `x:0, 
+y:0` ang sentrong posisyon sa Stage.
 
-A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+Ang isang posisyon tulad ng `x:-200, y:-100` ay makikita sa ibabang kaliwa ng Stage, at ang isang posisyon tulad ng `x:200, y:100` ay makikita malapit sa kanang itaas na bahagi.
 
-![Stage coordinates](images/coordinates-stage.png)
+![Mga coordinates ng Stage](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **Xy-grid** backdrop to your project.
++ Makikita mo ito sa pamamagitan ng pagdaragdag ng ** Xy-grid** backdrop sa iyong proyekto.
 
-![Stage coordinates](images/coordinates-backdrop.png)
+![Mga coordinates ng Stage](images/coordinates-backdrop.png)
